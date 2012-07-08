@@ -1,1 +1,2 @@
-Place your change log text here.  This file will be incorporated with your app at package time.
+July 8, 2012    Create the repository in github
+                Add DatePicker as a CommonJS module
